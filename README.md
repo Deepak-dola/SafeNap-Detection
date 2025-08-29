@@ -42,9 +42,5 @@
 
 ---
 
-## Screenshots / Demo
 
-*(Insert keyframes or a short demo GIF/video here to showcase detection in action.)*
-
----
 
